@@ -1,0 +1,4 @@
+PyMuPDF==1.22.3
+cryptography==41.0.3
+customtkinter==5.2.2
+PyPDF2==3.0.1 
